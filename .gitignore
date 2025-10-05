@@ -1,0 +1,20 @@
+
+/vendor/
+
+/runtime/
+
+
+/config/db.php
+.env
+
+/web/uploads/
+
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ОС
+*.log
